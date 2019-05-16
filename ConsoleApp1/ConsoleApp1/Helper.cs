@@ -9,6 +9,8 @@ namespace ConsoleApp1
     class Helper
     {
         public void TestMethod()
-        { }
+        {
+            // 123;
+        }
     }
 }
