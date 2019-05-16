@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    class Helper
     {
-        static void Main(string[] args)
-        {
-            // comment
-        }
+        public void TestMethod()
+        { }
     }
 }
