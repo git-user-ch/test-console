@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public int TestMethod()
         {
-            return 1;
+            return 2;
         }
     }
 }
